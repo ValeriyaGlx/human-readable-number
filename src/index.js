@@ -1,5 +1,5 @@
 module.exports = function toReadable (number) {
-let n = newArr;
+let n = number;
 let newArr=[];
 let arr = n.toString().split('').map(a => Number(a));
 
